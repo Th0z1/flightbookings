@@ -1,0 +1,11 @@
+footer{
+    border: 1px groove palevioletred;
+    background: rgb(0, 153, 255);
+    bottom: 0px;
+    width: 100%;
+    position: fixed;
+    vertical-align: middle;
+    text-align: center;
+    line-height: normal;
+    padding: 0;
+}

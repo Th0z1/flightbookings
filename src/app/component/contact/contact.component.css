@@ -1,0 +1,43 @@
+#after_submit{
+    margin:auto;
+    
+    width:50%;
+}
+#contact_form{
+    text-align: center;
+    border-radius: 25px;
+    margin-top:10%;
+    margin-left: 20%;
+    border: 2px solid black;
+    width:50%;
+}
+#row{
+    margin:auto;
+    width:50%;
+}
+h1{
+    font-style:italic;
+    color:rgb(0, 153, 255)
+}
+#submit_button{
+background-color:gray;;
+font-weight: bold;
+font-size: 20px;
+width: 50%;
+border-radius: 25px;
+margin-right:2%;
+height: 50px;
+
+}
+#name{
+    margin:auto;
+    width:50%;
+}
+#email{
+    margin:auto;
+    width:50%;
+}
+#message{
+    margin:auto;
+    width:50%;
+}
